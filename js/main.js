@@ -1,8 +1,10 @@
 document.getElementById(button).addEventListener("submit", function(list){
-    var fieldName = document.form.elements[i].name;
-    var fieldValue = docuemnt.form.elements[i].value;};
+    var firstname = document.form.elements[i].firstname;
+    var lastname = document.form.elements[i].lastname;
+    var email= document.form.elements[i].email;
+    var message= document.form.elements[i].message;
 
 function list {
-  window.stop()
-  return fieldName + fieldValue
-                                               }
+  event.preventDefault();
+  return firstname + lastname + email + message
+};
