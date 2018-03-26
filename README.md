@@ -10,6 +10,7 @@ Git cheat sheet: https://www.git-tower.com/blog/git-cheat-sheet/
 
 Git tagging help: https://git-scm.com/book/en/v2/Git-Basics-Tagging
 
+Help with the number aspect of the functions: https://stackoverflow.com/questions/11686724/adding-numbers-in-for-loop-javascript
 
 ## Deductions
 
